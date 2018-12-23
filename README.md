@@ -1,5 +1,7 @@
 # twitter-analysis
 
+![wordcloud](https://github.com/nsuzuki7713/twitter-analysis/wordcloud_sample.png)
+
 ## ライブラリインストール
 
 ```
