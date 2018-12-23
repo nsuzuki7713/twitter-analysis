@@ -1,6 +1,8 @@
 # twitter-analysis
 
-![wordcloud](https://github.com/nsuzuki7713/twitter-analysis/wordcloud_sample.png)
+## はじめに
+ツイートを取得して、形態素解析をし、wordcloudで画像を出力します。
+![wordcloud](./wordcloud_sample.png)
 
 ## ライブラリインストール
 
