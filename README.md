@@ -3,7 +3,7 @@
 ## ライブラリインストール
 
 ```
-pip install requests requests-oauthlib
+pip install requests-oauthlib
 pip install janome
 pip install wordcloud
 pip install emoji --upgrade
