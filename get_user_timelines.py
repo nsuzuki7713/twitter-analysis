@@ -26,9 +26,9 @@ params = {'screen_name': 'naoto_7713',
           'include_rts': False,
           'count': 200}
 
-f_out = open('./output/tweet_data', 'w')
+f_out = open('./input/user_tweet_data', 'w')
 
-for j in range(100):
+for j in range(30):
     res = twitter.get(url, params=params)
     if res.status_code == 200:
         # API残り回数
